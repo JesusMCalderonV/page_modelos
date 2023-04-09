@@ -1,0 +1,58 @@
+i{
+    margin: 15px;
+}
+
+main p{
+    text-align: justify;
+    padding: 2px 20px;
+}
+
+footer{
+    background-color: rgb(242, 221, 255);
+    border-radius: 10px;
+    margin: 10px;
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+
+.btn{
+    background-color: rgb(229, 189, 255);
+    color: black;
+}
+.btn:hover{
+    background-color: rgb(201, 119, 255);
+    color: white;
+}
+
+.planes{
+    margin: 10px 100px;
+}
+
+.planes p{
+    text-align: center;
+}
+
+.card-title{
+    color: rgb(201, 119, 255);
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+.gold{
+    color: #ffd000;
+    -webkit-text-stroke: 2px rgb(190, 151, 79);
+}
+
+.premium{
+    background-color: #000000;
+    color: #fff;
+}
+
+.premium:hover{
+    background-color: #000000;
+    color: #ffd900;
+}
